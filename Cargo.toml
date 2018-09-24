@@ -1,0 +1,9 @@
+[package]
+name = "voncount"
+version = "0.1.0"
+authors = ["Nathaniel McCallum <npmccallum@redhat.com>"]
+description = "Utilities for counting bytes read/written using std traits"
+repository = "https://github.com/npmccallum/voncount"
+documentation = "https://docs.rs/voncount"
+license = "Apache-2.0"
+readme = "README.md"
